@@ -1,4 +1,4 @@
-# Proyecto E-Commerce AyD1
+# Proyecto E-Commerce SS1
 
 **SS1-WebServices** es una plataforma de comercio electrónico diseñada para ofrecer una solución completa de venta en línea. La plataforma cuenta con una **App Web** desarrollada en **Vue 3** y una **API REST** construida con **Spring Boot**, que interactúan entre sí para brindar una experiencia robusta tanto a los administradores como a los usuarios finales. El proyecto incluye funcionalidades clave como la gestión de productos, usuarios, pedidos, reportes y roles, permitiendo un control flexible y escalable del negocio.
 
